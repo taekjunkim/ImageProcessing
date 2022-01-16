@@ -2,4 +2,4 @@
 
 This repository includes several examples of image processing
 
-* Image Quality Assessment: SSIM
+* Image Quality Assessment
